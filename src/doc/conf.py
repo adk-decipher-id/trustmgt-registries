@@ -23,9 +23,9 @@ pygments_style = 'colorful'
 # update the values in this section.
 # =============================================================================
 
-project = '<WG acronym>'
-release = '<charter version>'
-html_title = '<WG acronym> Charter'
+project = '<trustmgt-registries>'
+release = '<0.1>'
+html_title = 'Trust Management Verifier Registries Charter'
 author = 'FG-TIDA'
 
 numfig = True
@@ -61,10 +61,10 @@ latex_documents = [
 # cover_subtitle = 'Charter version 1.0 — Approved'
 # ---------------------------------------------------------------------------
 
-cover_title = '<Full name of the Working Group>'
-cover_series = 'FG-TIDA Working Group Charter'
-cover_subject = '<WG acronym>'
-cover_subtitle = '<Charter version and status>'
+cover_title = 'FG-TIDA WGx: Trust Management \- Verifier/Relying Party Network Registries'
+cover_series = 'FG-TIDA Working Group Trust Registries'
+cover_subject = 'trustmgt-registries'
+cover_subtitle = 'Charter version 0.1 - Proposed'
 
 # =============================================================================
 # Sphinx extensions
